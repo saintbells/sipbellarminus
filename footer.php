@@ -1,8 +1,15 @@
-<?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+</div>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="site_info">
+        <p>
+            Copyright <a href="#">IT Bell Menteng</a>. All Rights Reserved.
+        </p>
+    </div>
+</body>
+</html>
